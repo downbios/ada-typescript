@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.js.map
+
+# VSCode
+.vscode/
+
+# Arquivos de build
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependências do Yarn
+.yarn/
+yarn-error.log
+
+# Dependências do npm
+package-lock.json
